@@ -3,7 +3,7 @@
 $host     = "localhost";
 $dbname   = "control_tareas";
 $usuario  = "root";
-$password = "admin123";
+$password = "";
 
 $conn = new mysqli($host, $usuario, $password, $dbname);
 
