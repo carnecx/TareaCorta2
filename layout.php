@@ -18,7 +18,7 @@
         <ul>
 
             <li>
-                <a href="/TareaCorta2/index.php">
+                <a href="/TareaCorta2/layout.php">
                     Inicio
                 </a>
             </li>
@@ -28,6 +28,13 @@
                     Responsables
                 </a>
             </li>
+
+            <li>
+                <a href="/TareaCorta2/tareas/listar.php">
+                    Tareas
+                </a>
+            </li>
+
 
         </ul>
 

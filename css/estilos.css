@@ -79,3 +79,8 @@ td {
 .btn-volver {
     background-color: gray;
 }
+
+.tachado {
+    text-decoration: line-through;
+    color: #000000;
+}
